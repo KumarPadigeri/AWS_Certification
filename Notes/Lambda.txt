@@ -156,7 +156,7 @@ Q) What is the default timeout for Lambda?
 Default timeout for Lambda is 3 seconds but you can set any value between 1 and 300 seconds
 
 Q) Max RAM Supported?
-MAX RAM SUPPRTED = 3GB
+MAX RAM SUPPRTED = 10GB  #Updated on 5th Jan 2024
 
 
 
